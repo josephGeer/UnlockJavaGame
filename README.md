@@ -1,4 +1,6 @@
-Consigne après l'execution du .exe :
+Lien téléchargement de l'installer : https://drive.google.com/file/d/1x8QYywgflgbqXKwyEq2is9J_of-_zeFp/view?usp=sharing
+
+Consigne après l'execution de l'installer :
 
 Aller dans C:\Program Files\UnlockJeuExecutableFinal\app
 Copier Font / images / serial / sons
