@@ -1,4 +1,4 @@
-Consigne près l'execution du .exe :
+Consigne après l'execution du .exe :
 
 Aller dans C:\Program Files\UnlockJeuExecutableFinal\app
 Copier Font / images / serial / sons
